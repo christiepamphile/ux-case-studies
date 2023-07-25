@@ -1,2 +1,3 @@
 # ux-case-studies
-My case studies for my design portfolio
+
+All case studies will be in this repository 
